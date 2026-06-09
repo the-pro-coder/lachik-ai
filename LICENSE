@@ -1,0 +1,13 @@
+
+Do not claim features that have not been implemented.
+
+---
+
+# Phase 11 — Add the MIT license
+
+Create `LICENSE`.
+
+Use the standard MIT license text and insert:
+
+```text
+Copyright (c) 2026 Horacio Ruggeri Ruiz
